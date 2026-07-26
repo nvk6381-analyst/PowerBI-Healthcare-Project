@@ -52,7 +52,7 @@ Healthcare sample dataset containing:
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
